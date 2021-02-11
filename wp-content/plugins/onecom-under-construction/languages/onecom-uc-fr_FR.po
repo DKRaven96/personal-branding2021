@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-20 19:38+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: inc/classes/class-ocuc-admin-settings-api.php:128
+msgid "Settings saved."
+msgstr "Paramètres enregistrés."
+
+#: inc/classes/class-ocuc-admin-settings-api.php:129
+msgid "Remember to delete cache in case you are using any caching plugin."
+msgstr "Si vous utilisez un plug-in de mise en cache, n’oubliez de vider votre cache."
+
+#: inc/classes/class-ocuc-admin-settings-api.php:195
+msgid "Save"
+msgstr "Enregistrer"
+
+#: inc/classes/class-ocuc-admin-settings-api.php:450
+msgid "Choose File"
+msgstr ""
+
+#: inc/classes/class-ocuc-admin-settings.php:35
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: inc/classes/class-ocuc-admin-settings.php:41
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/classes/class-ocuc-admin-settings.php:46
+msgid "Customization"
+msgstr "Personnalisation"
+
+#: inc/classes/class-ocuc-admin-settings.php:69
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-ocuc-admin-settings.php:71
+msgid "Enable under construction, or maintenance mode page on your website"
+msgstr "Afficher une page de maintenance ou de page en cours de construction sur votre site"
+
+#: inc/classes/class-ocuc-admin-settings.php:76
+msgid "Select design"
+msgstr "Sélectionner un modèle"
+
+#: inc/classes/class-ocuc-admin-settings.php:77
+msgid "Choose a design for under construction page"
+msgstr "Sélectionner un modèle pour la page en construction"
+
+#: inc/classes/class-ocuc-admin-settings.php:88
+msgid "Mode"
+msgstr "Mode"
+
+#: inc/classes/class-ocuc-admin-settings.php:92
+msgid "Coming soon"
+msgstr "Disponible prochainement"
+
+#: inc/classes/class-ocuc-admin-settings.php:94
+msgid "Returns standard 200 HTTP OK response code to indexing robots"
+msgstr "Renvoie un code de réponse standard HTTP 200 OK aux robots d'indexation"
+
+#: inc/classes/class-ocuc-admin-settings.php:96
+msgid "Maintenance mode"
+msgstr "Mode maintenance"
+
+#: inc/classes/class-ocuc-admin-settings.php:98
+msgid "Returns 503 HTTP Service unavailable code to indexing robots"
+msgstr "Renvoie un code de service (temporairement) indisponible HTTP 503 aux robots d'indexation"
+
+#: inc/classes/class-ocuc-admin-settings.php:105
+msgid "Countdown timer"
+msgstr "Compte à rebours"
+
+#: inc/classes/class-ocuc-admin-settings.php:106
+msgid "Would you like to show countdown timer?"
+msgstr "Afficher le compte à rebours "
+
+#: inc/classes/class-ocuc-admin-settings.php:114
+msgid "Select date"
+msgstr "Définir une date et une heure"
+
+#: inc/classes/class-ocuc-admin-settings.php:115
+msgid "Set countdown timer. Current Wordpress time: "
+msgstr "Saisir la date et l'heure prévues de lancement de votre site internet. Heure actuelle de WordPress: "
+
+#: inc/classes/class-ocuc-admin-settings.php:117
+msgid "Change timezone"
+msgstr "Modifier le fuseau horaire"
+
+#: inc/classes/class-ocuc-admin-settings.php:124
+msgid "Subscribe form"
+msgstr "Formulaire d'inscription"
+
+#: inc/classes/class-ocuc-admin-settings.php:125
+msgid "Would you like to show subscription form?"
+msgstr "Afficher le formulaire d'inscription"
+
+#: inc/classes/class-ocuc-admin-settings.php:131
+msgid "Whitelisted user roles"
+msgstr "Rôles utilisateur en liste blanche"
+
+#: inc/classes/class-ocuc-admin-settings.php:132
+msgid "Selected user roles will always see the normal site, instead of under construction page."
+msgstr "Les rôles utilisateur sélectionnés verront la version normale du site, et non la page en construction."
+
+#: inc/classes/class-ocuc-admin-settings.php:148
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/classes/class-ocuc-admin-settings.php:152
+#: inc/classes/class-ocuc-admin-settings.php:254
+msgid "Select Image"
+msgstr "Sélectionner une image"
+
+#: inc/classes/class-ocuc-admin-settings.php:154
+msgid "Site title will be displayed if no image uploaded."
+msgstr "Si aucune image n'est chargée, le titre du site sera affiché."
+
+#: inc/classes/class-ocuc-admin-settings.php:154
+msgid "Site title"
+msgstr "Titre du site"
+
+#: inc/classes/class-ocuc-admin-settings.php:160
+msgid "Headline"
+msgstr "En-tête"
+
+#: inc/classes/class-ocuc-admin-settings.php:168
+msgid "Description"
+msgstr "Description"
+
+#: inc/classes/class-ocuc-admin-settings.php:176
+msgid "Copyright Text"
+msgstr "Texte du copyright"
+
+#: inc/classes/class-ocuc-admin-settings.php:184
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/classes/class-ocuc-admin-settings.php:191
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/classes/class-ocuc-admin-settings.php:199
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/classes/class-ocuc-admin-settings.php:207
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/classes/class-ocuc-admin-settings.php:215
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/classes/class-ocuc-admin-settings.php:232
+msgid "Background Color"
+msgstr "Couleur d'arrière-plan"
+
+#: inc/classes/class-ocuc-admin-settings.php:240
+msgid "Primary color"
+msgstr "Couleur principale"
+
+#: inc/classes/class-ocuc-admin-settings.php:244
+msgid "Set color for site title and button"
+msgstr "Sélectionner une couleur pour le titre et le bouton du site"
+
+#: inc/classes/class-ocuc-admin-settings.php:249
+msgid "Background image"
+msgstr "Image d'arrière-plan"
+
+#: inc/classes/class-ocuc-admin-settings.php:250
+msgid "Choose between having a solid color background or uploading an image. By default images will cover the entire background."
+msgstr "Si vous n'ajoutez une image, la couleur d'arrière-plan sera affichée. Par défaut, elle sera affichée sur tout l'arrière-plan."
+
+#: inc/classes/class-ocuc-admin-settings.php:260
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: inc/classes/class-ocuc-admin-settings.php:262
+msgid "Add custom CSS code"
+msgstr "Ajouter un code CSS personnalisé"
+
+#: inc/classes/class-ocuc-admin-settings.php:268
+msgid "Analytics code"
+msgstr "Code Analytics"
+
+#: inc/classes/class-ocuc-admin-settings.php:272
+msgid "Paste in your universal or classic google analytics code"
+msgstr "Collez votre code universel ou code Google Analytics"
+
+#: inc/classes/class-ocuc-admin-settings.php:308
+#: inc/classes/class-ocuc-admin-settings.php:350
+msgid "Under Construction"
+msgstr "En construction"
+
+#: inc/classes/class-ocuc-captcha.php:32
+msgid "Type in the answer:"
+msgstr "Saisir la réponse:"
+
+#: inc/classes/class-ocuc-captcha.php:81
+msgid "Invalid answer, please try again."
+msgstr "Incorrect, veuillez réessayer."
+
+#: inc/classes/class-ocuc-captcha.php:91
+#: inc/classes/class-ocuc-newsletter.php:166 inc/lib/OCPushStats.php:147
+#: inc/lib/class-onecom-usage-stats.php:237 inc/lib/validator.php:21
+#: inc/lib/validator.php:154
+msgid "Some error occurred, please reload the page and try again."
+msgstr "Une erreur s'est produite, veuillez recharger la page et réessayez."
+
+#: inc/classes/class-ocuc-newsletter.php:64
+msgid "Please enter your email."
+msgstr "Veuillez saisir votre e-mail."
+
+#: inc/classes/class-ocuc-newsletter.php:72
+msgid "Submit"
+msgstr "Soumettre"
+
+#: inc/classes/class-ocuc-newsletter.php:91
+msgid "To enable newsletter subscriptions user registrations must be allowed."
+msgstr "Pour activer les inscriptions aux newsletters, l'enregistrement des utilisateurs doivent être autorisés "
+
+#: inc/classes/class-ocuc-newsletter.php:94
+msgid "Anyone can register"
+msgstr "Tout le monde peut s'enregistrer"
+
+#: inc/classes/class-ocuc-newsletter.php:109
+msgid "Invalid security token, please reload the page and try again."
+msgstr "Une erreur s'est produite, merci de recharger la page et de réessayer."
+
+#: inc/classes/class-ocuc-newsletter.php:119
+msgid "Email entered is not valid or empty."
+msgstr "L'e-mail saisi n'est pas valide ou le champ est vide."
+
+#: inc/classes/class-ocuc-newsletter.php:126
+msgid "Email is too large, please use a valid email."
+msgstr "L'e-mail est trop long. Veuillez utiliser un e-mail valide."
+
+#: inc/classes/class-ocuc-newsletter.php:136
+msgid "This email is already used. Please use a different email."
+msgstr "Cet e-mail est déjà utilisé. Veuillez en utiliser un autre."
+
+# Use the following translation for "Under Construction"
+#
+# en_US = Under Construction
+#
+# da_DK = Under opbygning
+# fr_FR = En construction
+# it_IT = In allestimento
+# nb_NO = Under-arbeid
+# pt_PT = Em construção
+# es_ES = En construcción
+# nl_NL = Onder constructie
+# de_DE = In Bearbeitung
+# sv_SE = Under konstruktion
+# fi_FI = Keskeneräinen
+# ___________________________________________________
+#: inc/classes/class-ocuc-toolbar.php:39
+msgid "Under Construction is ON"
+msgstr "\"En construction\" ACTIVÉ"
+
+# Use the following translation for "Under Construction"
+#
+# en_US = Under Construction
+#
+# da_DK = Under opbygning
+# fr_FR = En construction
+# it_IT = In allestimento
+# nb_NO = Under-arbeid
+# pt_PT = Em construção
+# es_ES = En construcción
+# nl_NL = Onder constructie
+# de_DE = In Bearbeitung
+# sv_SE = Under konstruktion
+# fi_FI = Keskeneräinen
+# ___________________________________________________
+#: inc/classes/class-ocuc-toolbar.php:41
+msgid "Under Construction is OFF"
+msgstr "\"En construction\" DÉSACTIVÉ"
+
+#: inc/lib/class-onecom-usage-stats.php:53
+msgid "For delivering best customer experience, one.com wants to collect non-sensitive data from your website."
+msgstr "Pour vous fournir la meilleure expérience client, one.com voudrait collecter des données non sensibles depuis votre site web."
+
+#: inc/lib/class-onecom-usage-stats.php:54
+msgid "Which data?"
+msgstr "De quelles données s'agit-il?"
+
+#: inc/lib/class-onecom-usage-stats.php:55
+msgid "Allow one.com to collect data."
+msgstr "Autorisez one.com à collecter des données."
+
+#: inc/lib/class-onecom-usage-stats.php:60
+msgid "Installed plugins"
+msgstr "Plugins installés"
+
+#: inc/lib/class-onecom-usage-stats.php:61
+msgid "Installed themes"
+msgstr "Thèmes installés"
+
+#: inc/lib/class-onecom-usage-stats.php:62
+msgid "Counts of "
+msgstr ""
+
+#: inc/lib/class-onecom-usage-stats.php:64
+msgid "Posts"
+msgstr ""
+
+#: inc/lib/class-onecom-usage-stats.php:65
+msgid "Pages"
+msgstr ""
+
+#: inc/lib/class-onecom-usage-stats.php:66
+msgid "Media"
+msgstr ""
+
+#: inc/lib/class-onecom-usage-stats.php:67
+msgid "Products"
+msgstr ""
+
+#: inc/lib/class-onecom-usage-stats.php:68
+msgid "Comments"
+msgstr "Commentaires"
+
+#: inc/lib/class-onecom-usage-stats.php:69
+msgid "Users"
+msgstr ""
+
+# Translate "staging" like it's used below.
+#
+# da_DK = Genopret staging
+#
+# de_DE = Staging wiederherstellen
+# es_ES = Volver a generar página de prueba
+# fi_FI = Luo valmistelusivusto uudelleen
+# fr_FR = Reconstruire le site test
+# it_IT = Ricostruzione allestimento
+# nb_NO = Gjenoppbygg testmiljø
+# nl_NL = Staging hernieuwen
+# pt_PT = Reconstruir versão maqueta
+# sv_SE = Återskapa testsida
+#
+#
+#
+# _______________________________________________________________________
+#: inc/lib/class-onecom-usage-stats.php:71
+msgid "Staging exists"
+msgstr "Reconstruire le site test existant"
+
+#: inc/lib/class-onecom-usage-stats.php:72
+msgid "Frontpage settings"
+msgstr ""
+
+#: inc/lib/class-onecom-usage-stats.php:73
+msgid "Multisite"
+msgstr ""
+
+#: inc/lib/validator.php:22 inc/lib/validator.php:598
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: inc/lib/validator.php:412
+msgid "Premium feature"
+msgstr "Fonctionnalité Premium"
+
+#: inc/lib/validator.php:418
+msgid "The chosen theme is not available in your current subscription."
+msgstr "Le thème choisi n'est pas disponible dans votre abonnement actuel."
+
+#: inc/lib/validator.php:420
+msgid "This feature is not available in your current subscription."
+msgstr "Cette fonctionnalité n'est pas disponible dans votre abonnement actuel."
+
+#: inc/lib/validator.php:423 inc/lib/validator.php:804
+msgid "Please upgrade to a subscription with access to Premium features."
+msgstr "Veuillez mettre à niveau vers un abonnement disposant d'un accès aux fonctionnalités Premium."
+
+#: inc/lib/validator.php:433
+msgid "Cancel"
+msgstr "Annuler"
+
+#: inc/lib/validator.php:436
+msgid "Upgrade"
+msgstr "Mettre à niveau"
+
+#: inc/lib/validator.php:571
+msgid "Premium"
+msgstr "Fonctionnalité Premium"
+
+#: inc/lib/validator.php:596
+msgid "This is a Premium Theme"
+msgstr "Il s'agit d'un thème Premium"
+
+#: inc/lib/validator.php:700
+msgid "Connection timed out"
+msgstr "Connexion interrompue"
+
+#: inc/lib/validator.php:725
+msgid "Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr "Désolés, aucun thème compatible n'a été trouvé pour votre version de WordPress et PHP."
+
+#: inc/lib/validator.php:725
+msgid "Try again"
+msgstr "Réessayez"
+
+#: inc/lib/validator.php:804
+msgid "You have chosen a Premium feature that is not included in your current subscription."
+msgstr "Vous avez choisi une fonctionnalité Premium qui n'est pas incluse dans votre abonnement actuel"
+
+#: inc/modules/timer.php:7
+msgid "Days"
+msgstr "Jours"
+
+#: inc/modules/timer.php:11
+msgid "Hours"
+msgstr "Heures"
+
+#: inc/modules/timer.php:15
+msgid "Minutes"
+msgstr "Minutes"
+
+#: inc/modules/timer.php:19
+msgid "Seconds"
+msgstr "Secondes"
+
+#: inc/update.php:167
+msgid "View details"
+msgstr "Plus d'informations"
