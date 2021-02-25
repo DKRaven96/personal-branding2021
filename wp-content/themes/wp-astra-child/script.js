@@ -1,6 +1,7 @@
-console.log("Astra Child Theme JS is running!");
+console.log("Scroll to top is running!");
 
 document.addEventListener("DOMContentLoaded", function () {
     console.log("The DOM is ready!");
-    alert("I did it!");
+    initScrollToTop();
 });
+
